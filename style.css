@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family:'Time New Roman',Times,serif;
+    background-color: rgb(255, 255, 255);
+}
+nav{
+    display: center;
+    background-color:rgb(232, 167, 167);
+    color: rgb(87, 3, 17);
+    padding:10px;
+    width: 1000px;
+    font-size: 100px;
+    gap: 200px;
+    position: bolder;
+}
+
+nav{
+    color: rgb(0, 1, 0);
+    text-decoration:  none;
+    font-weight: bolder;
+}
+nav a:hover{
+    color: rgb(115, 3, 14);
+}
+#queen{
+    text-align:center;
+    padding: 20%;
+    background-color:rgb(116, 4, 4);
+    font-family: cursive;
+    font-weight: bolder;
+}
+#queen img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+#edu{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+#edu img{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(95, 8, 8);
+    padding: 10px;
+}
+#school{
+    background-color: rgb(129, 40, 2);
+}
+#pucollege{
+    background-color: rgb(198, 145, 126);
+}
+#university{
+    background-color: rgb(179, 139, 100);
+}
